@@ -25,7 +25,7 @@ alert(Welcome)
 console.log('------------------------------------------Answers------------------------------------------')
 
 var question1 = prompt('32+23=?');
-console.log ('Question 1:  ' + '32' + '+' + '23' + '=' + (32+23 ) + ' Your Answer is: ' + question1);
+console.log ('Question 1: ' + '32' + '+' + '23' + '=' + (32+23 ) + ' Your Answer is: ' + question1);
 
 // if (question1 = 55) {
 //     console.log = "correct";
